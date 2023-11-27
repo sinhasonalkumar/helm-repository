@@ -3,7 +3,17 @@ entries:
   micro-svc-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-29T14:22:25.87611-06:00"
+    created: "2023-11-27T10:57:13.895519-07:00"
+    description: A Helm chart for Kubernetes
+    digest: e81493e9e53ee49f11c8b1f857fe7251e55b3eafdf755612572d23575d3cde4a
+    name: micro-svc-helm-chart
+    type: application
+    urls:
+    - micro-svc-helm-chart/micro-svc-helm-chart-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-27T10:57:13.895302-07:00"
     description: A Helm chart for Kubernetes
     digest: 293d635b56c186bcd755ea4a120aeabeb0dccd84c4f2c521d247d4924f952260
     name: micro-svc-helm-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-29T14:22:25.875908-06:00"
+    created: "2023-11-27T10:57:13.894792-07:00"
     description: A Helm chart for Kubernetes
     digest: fe0656d1e21832c6429cdc06b41fe099b7d990624a34ca716090d7c6cc702794
     name: micro-svc-helm-chart
@@ -23,7 +33,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-29T14:22:25.875347-06:00"
+    created: "2023-11-27T10:57:13.8943-07:00"
     description: A Helm chart for Kubernetes
     digest: dedc0dddccbe7fb5f75926677ad013f08281ccc27324010c68d9798e522e2036
     name: micro-svc-helm-chart
@@ -33,7 +43,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-29T14:22:25.874776-06:00"
+    created: "2023-11-27T10:57:13.893787-07:00"
     description: A Helm chart for Kubernetes
     digest: 71d05ff530a10b122e04e40d2796ecc1d7e77f33d314f40fabbb31f4799838d1
     name: micro-svc-helm-chart
@@ -43,7 +53,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-29T14:22:25.874194-06:00"
+    created: "2023-11-27T10:57:13.893289-07:00"
     description: A Helm chart for Kubernetes
     digest: e79332a41147b893c236665a008e2b92c533245bcfbe68a8e8bb8dfb1cdd9f30
     name: micro-svc-helm-chart
@@ -53,7 +63,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-29T14:22:25.873528-06:00"
+    created: "2023-11-27T10:57:13.892768-07:00"
     description: A Helm chart for Kubernetes
     digest: 98c004b868649efb4e39a4d745cac9abb49054d1d46d87fa0a41e7f2367e2b7c
     name: micro-svc-helm-chart
@@ -61,4 +71,4 @@ entries:
     urls:
     - micro-svc-helm-chart/micro-svc-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-29T14:22:25.87261-06:00"
+generated: "2023-11-27T10:57:13.891872-07:00"
